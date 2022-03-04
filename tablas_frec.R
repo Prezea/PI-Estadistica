@@ -65,7 +65,7 @@ tabla<-transform(tabla_clases,
 # 7.- Organización visual de la tabla (variable Petal.length)
 
 # 7.1.- Instalamos la librería knitr
-installa.packages("knirt")
+installa.packages("knitr")
 
 # 7.2.- Se abre la librería
 library(knitr)
